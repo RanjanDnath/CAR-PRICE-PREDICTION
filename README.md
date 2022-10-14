@@ -3,7 +3,8 @@
 # How to use?
 Clone the repository
 Install the required packages in "requirements.txt" file.
-Some library package are: numpy,pandas,matplotlib,seaborn,scikit-learn
+Some library package are: numpy, pandas, matplotlib, seaborn, scikit-learn 
+ML : piping 
 Run the "application.py" file And you are good to go.
 
 # What this project does?
