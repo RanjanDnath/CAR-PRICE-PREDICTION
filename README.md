@@ -1,5 +1,8 @@
 # CAR-PRICE-PREDICTION
 The focus of this project is developing machine learning models that can accurately predict the price of a used car based on its features.
+ Project Link : https://car-price-price.herokuapp.com/
+# Aim 
+This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
 
 # How to use?
 Clone the repository
@@ -28,8 +31,7 @@ This project was given the form of an website built on Flask where we used the L
  
  # Benifit : 
  1) Based on the given input, it gives the prediction which includes the selling price of the existing car and also some of the available cars in that price.
- 2) For Time reduceness 
- 3) Online pricing services: There are websites that offers an estimate value of a car. They may have a good prediction model.
+ 2) For Time reduceness & Online pricing services: There are websites that offers an estimate value of a car. They may have a good prediction model.
  
  
  
